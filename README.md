@@ -5,8 +5,8 @@ An interactive **Excel Dashboard** created to analyze **sales performance, order
 This dashboard helps stakeholders quickly understand **where sales are coming from, who the customers are, and how different channels and regions perform**.
 
 ---
-
-
+To explore the dashboard, please download the dataset and open the first sheet in the Excel file.
+---
 ## 🎯 Project Objective
 
 The objective of this project is to:
