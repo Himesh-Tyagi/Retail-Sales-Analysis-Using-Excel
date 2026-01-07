@@ -1,7 +1,4 @@
-# Retail-Sales-Analysis-Using-Excel
-
-
-# 🏪 Shivam Store Annual Report 2022 – Excel Dashboard
+# 🏪 Retail-Sales-Analysis-Using-Excel
 
 An interactive **Excel Dashboard** created to analyze **sales performance, order trends, customer demographics, and channel contribution** for Shivam Store in the year 2022.
 
